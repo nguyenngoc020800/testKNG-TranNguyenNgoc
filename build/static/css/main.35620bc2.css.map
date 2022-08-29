@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.35620bc2.css","mappings":"AAAA,4GACA,kBACA,CAEA,KACE,iBACF","sources":["App.css"],"sourcesContent":[".date input.MuiInputBase-input.MuiOutlinedInput-input.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input{\npadding-left: 100px ;  \n}\n\n.App{\n  text-align: center;\n}"],"names":[],"sourceRoot":""}
